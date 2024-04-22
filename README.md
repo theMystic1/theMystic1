@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @theMystic1
+- 👋 Hi, I’m Lucky Chukwujkwu
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on Projects and learning
